@@ -1,0 +1,28 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+			font-size:30px;
+			color: teal;
+		}
+
+		h2{
+			font-size:18px;
+			color: red;
+		}
+		h2{
+			color: green;
+		}
+
+		.tommy{
+			font-size: 50px;
+		}
+		.uppercase{
+			text-transform: uppercase;
+		}
+		.tommy.uppercase{
+			color: navy;
+		}
+		h1 span{
+			color: violet;
+		}
